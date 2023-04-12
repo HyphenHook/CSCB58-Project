@@ -3,7 +3,7 @@
 # CSCB58 Winter 2023 Assembly Final Project 
 # University of Toronto, Scarborough 
 # 
-# Student: Wenbin Zhang, 1008103847, zha11568, web.zhang@mail.utoronto.ca 
+# Student: #
 # 
 # Bitmap Display Configuration: 
 # - Unit width in pixels: 8 (update this as needed)  
